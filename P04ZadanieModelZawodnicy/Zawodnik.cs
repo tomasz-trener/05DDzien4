@@ -17,5 +17,24 @@ namespace P04ZadanieModelZawodnicy
         public string Kraj;
         public Trener Trener;
         public Zawody[] Zawody;
+
+
+        public Zawodnik()
+        {
+
+        }
+        public Zawodnik(string imieZ, string nazwiskoZ, string imieT, string nazwiskoT)
+        {
+            Imie = imieZ;
+            Nazwisko = nazwiskoZ;
+
+            Trener = new Trener() 
+            { 
+                Imie = imieT,
+                Nazwisko = nazwiskoT,
+                Zawodnicy = new Zawodnik[1] {this}
+            };
+
+        }
     }
 }

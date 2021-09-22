@@ -13,5 +13,7 @@ namespace P04ZadanieModelZawodnicy
         public string Nazwisko;
         public DateTime DataUr;
         public Zawodnik[] Zawodnicy;
+
+        public int[] Liczby;
     }
 }
