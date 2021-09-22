@@ -71,7 +71,7 @@ namespace P02ZadanieBiblioteka
                 
             };
 
-            Console.WriteLine(k.Sygnatury[1].Wypozyczenia[0].Uwagi);
+            Console.WriteLine(k.Sygnatury[1].Wypozyczenia[0].Uwagi); 
         }
     }
 }
