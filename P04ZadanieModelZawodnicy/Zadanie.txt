@@ -1,0 +1,7 @@
+﻿
+
+1) tworzymy model z opisu tekstwego
+2) tworzyć model na podstawie UI
+3) stworzymy model na podstawie diagramu 
+
+http://tomaszles.pl/wp-content/uploads/2018/04/diagramBazy.jpg

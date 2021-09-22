@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace P03TypyWartoscioweIReferencyjne
+namespace P04ZadanieModelZawodnicy
 {
-    struct Pracownik
+    class Program
     {
-        public int Wiek;
-
-        public int PodajWiek()
+        static void Main(string[] args)
         {
-            return Wiek; 
         }
     }
 }
