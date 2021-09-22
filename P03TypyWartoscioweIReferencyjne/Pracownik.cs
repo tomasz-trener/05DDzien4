@@ -12,7 +12,7 @@ namespace P03TypyWartoscioweIReferencyjne
 
         public int PodajWiek()
         {
-            return Wiek;
+            return Wiek; 
         }
 
     }
