@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01ZadanieFirma", "P01Zadan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02ZadanieBiblioteka", "P02ZadanieBiblioteka\P02ZadanieBiblioteka.csproj", "{1D49961B-D2B5-4C93-86CA-0F402BF6E419}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03TypyWartoscioweIReferencyjne", "P03TypyWartoscioweIReferencyjne\P03TypyWartoscioweIReferencyjne.csproj", "{F45B187F-AF79-4446-B485-6AB33F44D94C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1D49961B-D2B5-4C93-86CA-0F402BF6E419}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D49961B-D2B5-4C93-86CA-0F402BF6E419}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D49961B-D2B5-4C93-86CA-0F402BF6E419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F45B187F-AF79-4446-B485-6AB33F44D94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45B187F-AF79-4446-B485-6AB33F44D94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45B187F-AF79-4446-B485-6AB33F44D94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45B187F-AF79-4446-B485-6AB33F44D94C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
