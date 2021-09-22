@@ -1,3 +1,43 @@
 ﻿
 
 http://tomaszles.pl/2019/02/10/zadanie-biblioteka-4/
+
+Jakie klasy? 
+
+1) Autor
+ - Imie (string)
+ - Nazwisko (string)
+ - DrugieImie (string)
+ - Karty (Karta[])
+2) Sygnatura
+  - Numer (int)
+  - Uwagi (string)
+  - Aktywna (bool)
+  - Wypozyczenia (List<Wypozyczenia>)
+  - Karta (Karta)
+3) Karta
+  - Numer (string)
+  - Autorzy (Autor[])
+  - Sygnatury (List<Sygnatura>)
+  - DataZakupu (DateTime)
+  - Cena (Cena)
+  - Nastepna (Karta)
+  - Poprzednia (Karta)
+  - Tytul (string)
+  - Wydanie (int)
+4) Czytelnik
+  - Imie (string)
+  - Nazwisko (string)
+  - Wypozyczenia(Sygnatury[])
+5) Wypozyczenie
+  - Czytelnik (Czytelnik)
+  - DataWypozyczenia (DateTime)
+  - PrzewidywanaDataZwrotu (DateTime)
+  - RzeczywistaDataZwrotu (DateTime)
+  - Uwagi (string)
+  - Przedluzenie (Wypozyczenia)
+  - Syngnatura (Sygnatura)
+6) Cena
+  - Wartosc (dobule)
+  - Uwagi (string)
+  - Karta (Karta)
