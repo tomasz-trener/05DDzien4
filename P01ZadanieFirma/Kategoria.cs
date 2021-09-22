@@ -8,6 +8,9 @@ namespace P01ZadanieFirma
 {
     enum Kategoria
     {
-
+        Czerwone, 
+        Czarne, 
+        Niebieskie,
+        Żółte
     }
 }

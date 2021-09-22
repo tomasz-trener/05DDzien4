@@ -8,5 +8,9 @@ namespace P01ZadanieFirma
 {
     class Faktura
     {
+        public int Numer;
+        public DateTime DataUtworzenia;
+        public Towar[] Towary;
+
     }
 }

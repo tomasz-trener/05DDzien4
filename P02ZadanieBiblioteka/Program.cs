@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace P01ZadanieFirma
+namespace P02ZadanieBiblioteka
 {
-    class Firma
+    class Program
     {
-        public Pracownik[] Pracownicy;
+        static void Main(string[] args)
+        {
 
-
+        }
     }
 }

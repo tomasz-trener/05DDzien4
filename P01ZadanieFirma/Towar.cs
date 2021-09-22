@@ -8,5 +8,9 @@ namespace P01ZadanieFirma
 {
     class Towar
     {
+        public double Cena;
+        public Kategoria Kategoria;
+       
+
     }
 }
