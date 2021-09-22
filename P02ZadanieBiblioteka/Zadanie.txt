@@ -2,7 +2,7 @@
 
 http://tomaszles.pl/2019/02/10/zadanie-biblioteka-4/
 
-Jakie klasy? 
+Jakie klasy? x
 
 1) Autor
  - Imie (string)
