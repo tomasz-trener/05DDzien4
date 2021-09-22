@@ -1,4 +1,5 @@
-﻿using System;
+﻿using P06Biblioteka;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,8 +13,6 @@ namespace P04ZadanieModelZawodnicy
         {
             Zawody z1 = new Zawody();
             Console.WriteLine(z1.NazwaSkoczni);
-
-
 
             Zawodnik z = new Zawodnik()
             {
