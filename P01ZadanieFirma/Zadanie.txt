@@ -1,0 +1,17 @@
+﻿
+
+Firma zatrudnia pracowników
+kazdy pracownik w tej firmie ma imie, nazwisko i pensje.
+
+
+pracownicy moga wystawiac faktury a na fakturze znajduja sie towary 
+
+
+Fatkura posiada numer i datę utworzenia
+
+Towwar posiada cene i kategorię
+(jedną z czeterech : "czerwone, czarne niebieskie , żółte")
+
+
+
+
