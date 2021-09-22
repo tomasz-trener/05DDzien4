@@ -13,5 +13,20 @@ namespace P04ZadanieModelZawodnicy
         public DateTime Data;
         public Skocznia Skocznia;
         public Zawodnik[] Zawodnicy;
+
+        public string NazwaSkoczni
+        {
+            //get { return Skocznia.Nazwa; }
+          
+            //get
+            //{
+            //    if (Skocznia != null)
+            //        return Skocznia.Nazwa;
+            //    else
+            //        return null;
+            //}
+            get { return Skocznia?.Nazwa; }
+            // to jest to samo co powyzej 
+        }
     }
 }

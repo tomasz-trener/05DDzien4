@@ -15,5 +15,14 @@ namespace P04ZadanieModelZawodnicy
         public Zawodnik[] Zawodnicy;
 
         public int[] Liczby;
+
+        public string NazwaMaiasta
+        {
+            get
+            {
+                return Zawodnicy[0]?.Zawody[0]?.Skocznia?.Miasto?.Nazwa;
+               // return Zawodnicy[0]?.Zawody[0]?.NazwaSkoczni
+            }
+        }
     }
 }

@@ -10,6 +10,11 @@ namespace P04ZadanieModelZawodnicy
     {
         static void Main(string[] args)
         {
+            Zawody z1 = new Zawody();
+            Console.WriteLine(z1.NazwaSkoczni);
+
+
+
             Zawodnik z = new Zawodnik()
             {
                 Imie = "Jan",

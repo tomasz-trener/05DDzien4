@@ -36,5 +36,11 @@ namespace P04ZadanieModelZawodnicy
             };
 
         }
+        public string ImieNazwisko
+        {
+            get { return Imie + " " + Nazwisko; } 
+        }
+
+
     }
 }
