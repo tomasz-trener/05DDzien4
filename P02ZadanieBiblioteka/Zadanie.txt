@@ -2,7 +2,7 @@
 
 http://tomaszles.pl/2019/02/10/zadanie-biblioteka-4/
 
-Jakie klasy? x
+Jakie klasy? 
 
 1) Autor
  - Imie (string)
@@ -28,7 +28,7 @@ Jakie klasy? x
 4) Czytelnik
   - Imie (string)
   - Nazwisko (string)
-  - Wypozyczenia(Sygnatury[])
+  - Wypozyczenia(List<Sygnatury>)
 5) Wypozyczenie
   - Czytelnik (Czytelnik)
   - DataWypozyczenia (DateTime)
