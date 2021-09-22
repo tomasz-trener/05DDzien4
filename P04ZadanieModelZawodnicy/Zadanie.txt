@@ -5,3 +5,10 @@
 3) stworzymy model na podstawie diagramu 
 
 http://tomaszles.pl/wp-content/uploads/2018/04/diagramBazy.jpg
+
+
+z1) Stworz w zawodniku właściwosć tlyko od odczytu, która zwraca imie nazwisko
+2) Stworz w Zawodach właściwośc , która w łatwy sposób zwraca naze skoczni tych zawdodów
+3) Stworz w Trenerze własściwość, która w łatwy sposób zwraca 
+  nazwę miasta, w którym jest skocznia, na której odbyły się pierwsze zawody , pierwsego zawodnika tego trenera 
+
